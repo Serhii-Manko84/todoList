@@ -37,7 +37,8 @@ button {
 }
 
 .container-form input {
-  width: 70%;
+  width: 80%;
+  margin-right: 10px;
 }
 
 .container-form button {
